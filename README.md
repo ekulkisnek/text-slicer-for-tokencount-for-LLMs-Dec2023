@@ -1,5 +1,6 @@
 
 # Text Chunker
+![image](image.png)
 
 A Flask web application that helps process and chunk large texts for easier handling, especially when working with language models that have context length limitations.
 
